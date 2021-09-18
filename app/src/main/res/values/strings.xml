@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="txt_saldo_disponivel">Saldo disponível</string>
+    <string name="saldando_usuario">Olá, Rafael</string>
+    <string name="agencia_bancaria">ag</string>
+    <string name="numero_agencia">2030</string>
+    <string name="tipo_de_conta">Cc</string>
+    <string name="numero_conta">0122122-5</string>
+    <string name="saldo_e_limite">R$ 5.986,75</string>
+    <string name="extrato_conta">Ver Extrato</string>
+    <string name="pagar_fatura_cartao">Pagar fatura</string>
+    <string name="recarga_celular">Recarga</string>
+    <string name="tranferencia">Tranferência</string>
+    <string name="qr_code">QR Code</string>
+    <string name="pix">Pix</string>
+    <string name="poupar_dinheiro">Poupar</string>
+    <string name="cartao_final">Cartão final</string>
+    <string name="limite_de_credito">Limite de credito</string>
+</resources>

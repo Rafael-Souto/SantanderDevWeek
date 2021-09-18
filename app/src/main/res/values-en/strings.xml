@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderDevWeek</string>
+    <string name="saldando_usuario">Balance - Limite</string>
+    <string name="txt_saldo_disponivel">Balance available</string>
+    <string name="agencia_bancaria">Banking agency</string>
+    <string name="numero_agencia">Agency number</string>
+    <string name="tipo_de_conta">Account type</string>
+    <string name="numero_conta">Account number</string>
+    <string name="saldo_e_limite">Balance limit</string>
+    <string name="extrato_conta">Account statement</string>
+    <string name="pagar_fatura_cartao">Pay letter invoice</string>
+    <string name="recarga_celular">Cell recharge</string>
+    <string name="tranferencia">Transfer</string>
+    <string name="qr_code">QR_code</string>
+    <string name="pix">Pix</string>
+    <string name="poupar_dinheiro">Save money</string>
+    <string name="cartao_final">Final card</string>
+    <string name="limite_de_credito">Credit limit</string>
+</resources>

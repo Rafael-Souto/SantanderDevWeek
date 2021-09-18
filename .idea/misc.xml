@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_expand_less_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_expand_up_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_monetization_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_monetization_on_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_pagamentos_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_pagar_fatura_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_pix_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_poupar_dinheiro_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_qr_code_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_recarga_celular_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_recarga_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/drawable/ic_transferencia_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/layout/action_bar.xml" value="0.2" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/mipmap-anydpi-v26/ic_expand_less.xml" value="0.1125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/mipmap-anydpi-v26/ic_expand_less_round.xml" value="0.1125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/mipmap-anydpi-v26/ic_monetization.xml" value="0.1125" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/SantanderDevWeek/app/src/main/res/mipmap-anydpi-v26/ic_monetization_round.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
